@@ -17,6 +17,7 @@ import (
 
 const (
 	// DBURL is the url of the database
+	// Rajat is a funny man! xD
 	DBURL = "mongodb+srv://challengeUser:WUMglwNBaydH8Yvu@challenge-xzwqd.mongodb.net/getircase-study?retryWrites=true"
 )
 
